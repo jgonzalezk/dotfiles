@@ -1,4 +1,7 @@
-pcall(require,"luarocks.loader")
+-- A random rice. i guess.
+-- source: https://github.com/saimoomedits/dotfiles |-| Copyleft © 2022 Saimoomedits
+------------------------------------------------------------------------------------
+call(require,"luarocks.loader")
 
 -- Variables del sistema
 home_var = os.getenv("HOME")
